@@ -6,7 +6,7 @@
 ---
 
 ## 🔍 About Me
-- **Roles:** Software Engineer, Creative, DevOps-minded
+- **Roles:** Software Engineer, App Developer
 - **Focus:** JavaScript, Java, Node.js, React, Raspberry Pi
 - **Currently:** Maintaining a self-hosted portfolio, cracking leetcode questions, Looking for a position!
 
@@ -14,32 +14,45 @@
 
 ## 🚀 Projects Showcase
 
-### 1) pi-portfolio
+## 🏠 Pi-Portfolio
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
 - Repo: https://github.com/nkiv/pi-portfolio
 - Demo: https://raspberrypi.nkivett.work/
 - Tech: React, JavaScript/JSX, Apache, Raspberry Pi (self-hosted)
-- Approach:
-  - Goal: Host a personal portfolio and project demos on a Raspberry Pi.
-  - Approach: At first the site was static with php files, now its served using React.js in the React branch (merge coming soon)
-  - Outcome: Reliable personal site showcasing projects, with easy local maintenance and low running cost.
+- **Self-Hosted Personal Portfolio**
+- 🔧 Evolved from static PHP to dynamic React.js
+- 🌐 Fully self-hosted on Raspberry Pi
+- 💡 Low-cost, locally maintained web presence
 
-### 2) pico-8-projects
+## 🎮 Pico-8 Game Prototypes
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)
+![Pico-8](https://img.shields.io/badge/Pico--8-FF004D?style=flat-square)
 - Repo: https://github.com/nkiv/pico-8
 - Demo: https://nkiv.itch.io/
 - Tech: Pico-8, Lua, pixel/game design
-- Approach:
-  - Goal: Explore game design and constrained systems with Pico-8 fantasy console.
-  - Approach: Create small, polished game prototypes focusing on gameplay loops and pixel art.
-  - Outcome: A collection of playable demos demonstrating rapid prototyping and creative constraints.
+- **Creative Game Design Exploration**
+- 🕹️ Rapid prototyping within constrained system
+- 🎨 Focus on gameplay loops and pixel art
+- 🚀 Demos available on itch.io
 
 ---
 
-## 🛠️ Tech & Tools
-- **Languages:** JavaScript, Java, Lua, Bash, C 
-- **Frontend:** React, Next.js, HTML/CSS  
-- **Backend:** Node.js, Express, REST APIs  
-- **Infra:** Docker, Apache, Linux (Raspberry Pi)  
-- **Other:** Git, LeetCode
+## 💻 Tech Ecosystem
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+
+### Extended Reality & Immersive Tech
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1A73E8?style=flat-square&logo=oculus&logoColor=white)
+![Virtual Reality](https://img.shields.io/badge/VR-Development-FF6F00?style=flat-square&logo=vr&logoColor=white)
 
 ---
 
