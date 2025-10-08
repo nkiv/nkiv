@@ -8,11 +8,11 @@
   <a href="https://linkedin.com/in/nkiv">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nkiv">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://leetcode.com/u/ntop1/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://raspberrypi.nkivett.work/">
+    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=persona&logoColor=white" />
   </a>
 </p>
 
