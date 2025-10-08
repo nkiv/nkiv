@@ -60,6 +60,5 @@
 - Portfolio: https://raspberrypi.nkivett.work/  
 - LeetCode: https://leetcode.com/u/ntop1/  
 - LinkedIn: https://www.linkedin.com/in/nkiv/  
-- GitHub: https://github.com/nkiv
 
 ---
