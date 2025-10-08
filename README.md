@@ -1,6 +1,23 @@
 <p align="center">
-  <h2 align="center">Noah Kivett — full-stack dev • app development • Raspberry Pi hobbyist</h2>
-  <p align="center">I build full-stack web apps and games. I enjoy solving algorithms, prototyping on Raspberry Pi, and shipping maintainable code.</p>
+  <img src="https://komarev.com/ghpvc/?username=nkiv&color=blueviolet" alt="Profile Views" />
+</p>
+
+<h2 align="center">Noah Kivett — Full-Stack Dev • App Development • Raspberry Pi Hobbyist</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nkiv">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nkiv">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/ntop1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  I build full-stack web apps and games.<br> I enjoy solving problems, learning alogrithms, prototyping on Raspberry Pi, and shipping maintainable code.
 </p>
 
 ---
@@ -53,12 +70,5 @@
 ### Extended Reality & Immersive Tech
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1A73E8?style=flat-square&logo=oculus&logoColor=white)
 ![Virtual Reality](https://img.shields.io/badge/VR-Development-FF6F00?style=flat-square&logo=vr&logoColor=white)
-
----
-
-## 📫 Contact & Links
-- Portfolio: https://raspberrypi.nkivett.work/  
-- LeetCode: https://leetcode.com/u/ntop1/  
-- LinkedIn: https://www.linkedin.com/in/nkiv/  
 
 ---
