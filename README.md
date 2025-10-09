@@ -45,7 +45,7 @@
 ## 🎮 Pico-8 Game Prototypes
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)
 ![Pico-8](https://img.shields.io/badge/Pico--8-FF004D?style=flat-square)
-- Repo: https://github.com/nkiv/pico-8
+- Repo: https://github.com/nkiv/pico-8-projects
 - Demo: https://nkiv.itch.io/
 - Tech: Pico-8, Lua, pixel/game design
 - **Creative Game Design Exploration**
