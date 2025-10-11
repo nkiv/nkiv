@@ -31,9 +31,9 @@
 - Demo: https://raspberrypi.nkivett.work/
 - Tech: React, JavaScript/JSX, Apache, Raspberry Pi (self-hosted)
 - **Self-Hosted Personal Portfolio**
-- Evolved from static PHP to dynamic React.js
-- Fully self-hosted on Raspberry Pi
-- Low-cost, locally maintained web presence
+  - Evolved from static PHP to dynamic React.js
+  - Fully self-hosted on Raspberry Pi
+  - Low-cost, locally maintained web presence
 
 ## Pico-8 Game Prototypes
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=round-square&logo=lua)
@@ -42,9 +42,9 @@
 - Demo: https://nkiv.itch.io/
 - Tech: Pico-8, Lua, pixel/game design
 - **Creative Game Design Exploration**
-- Rapid prototyping within constrained system
-- Focus on gameplay loops and pixel art
-- Demos available on itch.io
+  - Rapid prototyping within constrained system
+  - Focus on gameplay loops and pixel art
+  - Demos available on itch.io
 
 ---
 
