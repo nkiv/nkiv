@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nkiv&color=blueviolet" alt="Profile Views" />
-</p>
-
 <h2 align="center">Noah Kivett — Full-Stack Dev • App Development • Raspberry Pi Hobbyist</h2>
 
 <p align="center">
