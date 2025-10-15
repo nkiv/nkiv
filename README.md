@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nkiv&style=flat-round" />
+</p>
+
 ---
 
 ## About Me
