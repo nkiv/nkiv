@@ -21,8 +21,8 @@
 
 ## About Me
 - **Roles:** Software Engineer, App Developer
-- **Focus:** JavaScript, Java, Node.js, React, Raspberry Pi
-- **Currently:** Maintaining a self-hosted portfolio, cracking leetcode questions, Looking for a position!
+- **Focus:** JavaScript, Java, Web Development, Raspberry Pi
+- **Currently:** Maintaining a self-hosted portfolio, cracking leetcode questions, building my skills each day.
 
 ---
 
@@ -35,7 +35,7 @@
 - Demo: https://raspberrypi.nkivett.work/
 - Tech: React, JavaScript/JSX, Apache, Raspberry Pi (self-hosted)
 - **Self-Hosted Personal Portfolio**
-  - Evolved from static PHP to dynamic React.js
+  - Evolved from slow loading with PHP, to extremely fast loading with React.js
   - Fully self-hosted on Raspberry Pi
   - Low-cost, locally maintained web presence
 
