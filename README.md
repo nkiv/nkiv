@@ -1,5 +1,5 @@
 <h1 align="center">Noah Kivett</h1>
-<h2 align="center">Full-Stack Dev | App Development | Raspberry Pi Hobbyist</h2>
+<h2 align="center">Software Engineer | App Development | Raspberry Pi Hobbyist</h2>
 
 <p align="center">
   <a href="https://raspberrypi.nkivett.work/">
