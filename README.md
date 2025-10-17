@@ -55,19 +55,12 @@
 ## Tech
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=round-square&logo=java&logoColor=black)
+![C++](https://img.shields.io/badge/C++-0206E0?style=round-square&logo=c++&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=round-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=round-square&logo=lua)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=round-square&logo=gnu-bash&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=round-square&logo=nodedotjs&logoColor=white)
-
-### Immersive Tech
-![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1A73E8?style=round-square&logo=oculus&logoColor=white)
-![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-000000?style=round-square&logo=unrealengine&logoColor=white&labelColor=000000)
 
 ---
 
