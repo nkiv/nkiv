@@ -21,7 +21,7 @@
 
 ## About Me
 - **Roles:** Software Engineer, App Developer
-- **Focus:** JavaScript, Java, Web Development, Raspberry Pi
+- **Focus:** Java, Web Development, C++, Optimization.
 - **Currently:** Maintaining a self-hosted portfolio, cracking leetcode questions, building my skills each day.
 
 ---
