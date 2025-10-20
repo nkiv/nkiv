@@ -3,13 +3,16 @@
 
 <p align="center">
   <a href="https://raspberrypi.nkivett.work/">
-    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=persona&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/nkiv">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/ntop1/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a download href="https://github.com/nkiv/nkiv/blob/main/resume/Noah-Kivett.pdf">
+    <img src="https://img.shields.io/badge/Resume-A47764?style=for-the-badge"
   </a>
 </p>
 
