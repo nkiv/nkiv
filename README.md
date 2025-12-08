@@ -1,5 +1,5 @@
 <h1 align="center">Noah Kivett</h1>
-<h2 align="center">Software Developer | App Development | Raspberry Pi Hobbyist</h2>
+<h2 align="center">Software Developer I | Microservice Development | Raspberry Pi Hobbyist</h2>
 
 <p align="center">
   <a href="https://raspberrypi.nkivett.work/">
@@ -23,9 +23,9 @@
 ---
 
 ## About Me
-- **Roles:** Software Developer, App Developer
-- **Focus:** Java, Web Development, C++, Optimization.
-- **Currently:** Maintaining a self-hosted portfolio, cracking leetcode questions, building my skills each day.
+- **Software Developer I**
+- **Focus:** Java, Functional Programming, Spring Boot, Architecture
+- **Currently:** Learning Functional Programming in Java, Removing Tech Debt, Learning Microservice Frameworks
 
 ---
 
