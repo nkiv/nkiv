@@ -25,7 +25,7 @@
 ## About Me
 - **Software Developer I**
 - **Focus:** Java, Functional Programming, Spring Boot, Architecture
-- **Currently:** Learning Functional Programming in Java, Removing Tech Debt, Learning Microservice Frameworks
+- **Currently:** Learning Functional Programming in Java, Removing Tech Debt, Learning Microservice Frameworks, and Enhancing Performance Testing Capabilities
 
 ---
 
