@@ -125,5 +125,5 @@ Rapid game prototyping within a constrained fantasy console (128x128 pixels, 819
 ---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ntop1?theme=dark&font=Arima%20Madurai&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/ntop1?theme=dark&font=Viga&colors=%231e1e1e%2C%23000000%2C%23ffffff%2C%23ffffff%2C%23FFD700%2C%2300ccff%2C%2300ccff%2C%2300ccff&ext=heatmap" />
 </p>
