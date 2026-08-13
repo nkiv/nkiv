@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | Java & Spring Boot | Microservices & OAuth Systems</h2>
 
 <p align="center">
-  <a href="https://raspberrypi.nkivett.work/">
+  <a href="https://nkivett.com/">
     <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/nkiv">
@@ -101,7 +101,7 @@ Auth at scale — 50+ microservices handling every login, token refresh, and dev
 ![React](https://img.shields.io/badge/React-61DAFB?style=round-square&logo=react&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=round-square&logo=raspberry-pi)
 
-[Repo](https://github.com/nkiv/pi-portfolio) · [Live](https://raspberrypi.nkivett.work/)
+[Repo](https://github.com/nkiv/pi-portfolio) · [Live](https://nkivett.com/)
 
 Self-hosted React portfolio running on Raspberry Pi. Migrated from PHP to React for sub-second load times. Managed DNS, Apache config, SSL certs, and uptime monitoring on bare metal.
 
