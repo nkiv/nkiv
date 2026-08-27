@@ -5,7 +5,7 @@
   <a href="https://nkivett.com/">
     <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/nkiv">
+  <a target="_blank" href="https://linkedin.com/in/nkiv">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/ntop1/">
