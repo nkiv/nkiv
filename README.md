@@ -23,9 +23,9 @@
 
 I'm a backend engineer on the identity platform at Charter Communications. It's a large OAuth2/OIDC system that handles login and token refresh for consumer and enterprise products, with more than a hundred components shipped together on a shared release.
 
-I work on the whole lifecycle. I dig into pre-production issues with tracing and logging tools, design and build new service features, and ship them through CI/CD to Kubernetes. I own platform releases and the regression suite that decides when code is ready to merge.
+I dig into pre-production issues with tracing and logging tools, design and build new service features, and ship them through CI/CD to Kubernetes. I own platform releases and the regression suite that decides when code is ready to merge.
 
-How I work: I understand a system before I change it, I use AI to ask my dumbest questions, and I learn through failing. When something goes wrong I think of every way I could fix it and plan out the fix before I change anything. I'm careful with every action I take so as few failures as possible are created.
+I understand a system before I change it, I use AI to ask my dumbest questions, and I learn through failing. When something goes wrong I think of every way I could fix it and plan out the fix before I change anything. I'm careful with every action I take so as few failures as possible are created.
 
 AI is a big part of how I work faster. I turned the tasks I repeat most into agent skills and tools.
 
@@ -38,15 +38,13 @@ Outside of work, I self-host projects on a Raspberry Pi and make small games in 
 ### Charter Communications (Spectrum)
 **Software Developer I** · OAuth Platform Team · *Nov 2025 to Present*
 
-Auth at scale. More than a hundred components handling login, token refresh and device authentication for consumer and enterprise products, built with Java and Spring on AWS and Kubernetes.
+Enterprise AuthN/AuthZ. More than a hundred components handling login, token refresh and device authentication for consumer and enterprise products, built with Java and Spring on AWS and Kubernetes.
 
 ![Release Management](https://img.shields.io/badge/Release_Management-0D47A1?style=for-the-badge&logo=gitlab&logoColor=white)
-- I own platform releases. I sequence rollouts across environments, make sure database migrations go out first, write the change records and release notes, keep the release calendar up to date, and run pre-prod deployments
-- I created documentation for our release runbook. With help from the previous releaese manager coaching me along with fragments of previous documentation 
-
+- I own platform releases. I sequence rollouts across environments, make sure database migrations go out first, write the change records and release notes, keep the release calendar up to date, and run pre-prod deployments. With up to 4 releases happening concurrently.
 ![Test Automation](https://img.shields.io/badge/Test_Automation_&_Quality-2E7D32?style=for-the-badge&logo=testinglibrary&logoColor=white)
 - Resolved 500+ regression failures by tracing each one to its root cause: code defects, test defects, bad test data, or upstream dependencies
-- When other developers' changes broke something, I caught it before release by comparing before and after runs, then found the root cause and fixed it or handed it to the right team
+- Triaged before/after test summaries to find failure clusters and resolve the new errors before leaving pre-production.
 - Built a Python triage toolchain that fingerprints test runs, figures out which environment they came from, and builds failure trend dashboards
 
 ![Architecture](https://img.shields.io/badge/Architecture-0D47A1?style=for-the-badge&logo=blueprint&logoColor=white)
@@ -56,10 +54,8 @@ Auth at scale. More than a hundred components handling login, token refresh and 
 
 ![Development](https://img.shields.io/badge/Development-2E7D32?style=for-the-badge&logo=spring&logoColor=white)
 - Built WireMock integration test suites for OAuth flows, running against a local Cassandra, Redis and WireMock setup
-- Moved legacy tests over to modern Spring Boot patterns
-- Wrote statistical distribution tests with a configurable tolerance
-- Fixed a circuit breaker that could never open because a new one was created on every request. I replaced it with one shared Resilience4j instance across 3 repos
-- Moved a service pipeline off static cloud credentials and onto short-lived, role-based AWS credentials
+- Moved legacy tests over to modern Spring Boot pattern. Reducing code bloat by thousands of lines. 
+- Fixed a circuit breaker that could never open because a new one was created on every request.
 - Modernized 9 services: Java 11 to 21, Spring Boot 2.7 to 3.x, and Spring Data for Cassandra and reactive Redis
 
 ![Debugging](https://img.shields.io/badge/Debugging-E65100?style=for-the-badge&logo=bugsnag&logoColor=white)
