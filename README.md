@@ -132,12 +132,11 @@ Enterprise AuthN/AuthZ. More than a hundred components handling login, token ref
 
 My portfolio site, self-hosted on a Raspberry Pi. I moved it from PHP to React and got load times under a second. I handle the DNS, Apache config, SSL certs and uptime monitoring myself, on bare metal.
 
-### Pico-8 Game Prototypes
+### Game Prototypes
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)
 ![Pico-8](https://img.shields.io/badge/Pico--8-FF004D?style=flat-square)
 
 [Repo](https://github.com/nkiv/pico-8-projects) · [Play on itch.io](https://nkiv.itch.io/)
 
-Quick game prototypes on a fantasy console with hard limits: 128x128 pixels and 8,192 tokens of Lua. I focus on tight gameplay loops and finding creative ways to work inside those limits.
-
+Small game demos created under time constraints for game jams held on itch.io. Created using javascript and lua using phaser or pico-8 game engines. 
 ---
