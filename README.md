@@ -42,6 +42,7 @@ Enterprise AuthN/AuthZ. More than a hundred components handling login, token ref
 
 ![Release Management](https://img.shields.io/badge/Release_Management-0D47A1?style=for-the-badge&logo=gitlab&logoColor=white)
 - I own platform releases. I sequence rollouts across environments, make sure database migrations go out first, write the change records and release notes, keep the release calendar up to date, and run pre-prod deployments. With up to 4 releases happening concurrently.
+
 ![Test Automation](https://img.shields.io/badge/Test_Automation_&_Quality-2E7D32?style=for-the-badge&logo=testinglibrary&logoColor=white)
 - Resolved 500+ regression failures by tracing each one to its root cause: code defects, test defects, bad test data, or upstream dependencies
 - Triaged before/after test summaries to find failure clusters and resolve the new errors before leaving pre-production.
