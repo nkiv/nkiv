@@ -139,5 +139,6 @@ My portfolio site, self-hosted on a Raspberry Pi. I moved it from PHP to React a
 
 [Repo](https://github.com/nkiv/pico-8-projects) · [Play on itch.io](https://nkiv.itch.io/)
 
-Small game demos created under time constraints for game jams held on itch.io. Created using javascript and lua using phaser or pico-8 game engines. 
+Small game demos created under time constraints for game jams held on itch.io. Created using javascript and lua using phaser or pico-8 game engines.
+
 ---
